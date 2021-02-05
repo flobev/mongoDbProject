@@ -8,7 +8,7 @@ package com.compagnie.compagnieaeriennemongodb;
 import javax.swing.JButton;
 import javax.swing.JTable;
 import javax.swing.JTextField;
-import dao.PaysDao;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
